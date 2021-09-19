@@ -16,5 +16,41 @@
     "لینک کیت دوم دروازه بان": "https://i.imgur.com/GQlhbk4_d.webp?maxwidth\u003d640\u0026shape\u003dthumb\u0026fidelity\u003dmedium",
     "لینک کیت سوم دروازه بان": "https://i.imgur.com/gWrcxsp_d.webp?maxwidth\u003d640\u0026shape\u003dthumb\u0026fidelity\u003dmedium",
     "لینک عکس": "https://i.imgur.com/mhYAYFG_d.webp?maxwidth\u003d640\u0026shape\u003dthumb\u0026fidelity\u003dmedium"
+  },
+  {
+    "نام تیم": "رئال مادرید",
+    "شماره لوگو": "لوگو اصلی",
+    "شماره کیت اول": "کیت اول",
+    "شماره کیت دوم": "کیت دوم",
+    "شماره کیت سوم": "کیت سوم",
+    "شماره کیت اول دروازه بان": "کیت اول",
+    "شماره کیت دوم دروازه بان": "کیت دوم",
+    "شماره کیت سوم دروازه بان": "کیت سوم",
+    "لینک لوگو": "https://s4.uupload.ir/files/2urj3ie_bxf6.png",
+    "لینک کیت اول": "https://s4.uupload.ir/files/real-madrid-home_g96q.png",
+    "لینک کیت دوم": "https://s4.uupload.ir/files/real-madrid-away_lvrf.png",
+    "لینک کیت سوم": "https://s4.uupload.ir/files/real-madrid-third_j1w6.png",
+    "لینک کیت اول دروازه بان": "https://s4.uupload.ir/files/real-madrid-gk-dark-green_ig9k.png",
+    "لینک کیت دوم دروازه بان": "https://s4.uupload.ir/files/real-madrid-gk-light-blue_vxcn.png",
+    "لینک کیت سوم دروازه بان": "https://s4.uupload.ir/files/real-madrid-gk-yellow_xlas.png",
+    "لینک عکس": "https://s4.uupload.ir/files/2urj3ie_bxf6.png"
+  },
+  {
+    "نام تیم": "اتلتیکو مادرید",
+    "شماره لوگو": "لوگو اصلی",
+    "شماره کیت اول": "کیت اول",
+    "شماره کیت دوم": "کیت دوم",
+    "شماره کیت سوم": "کیت سوم",
+    "شماره کیت اول دروازه بان": "کیت اول",
+    "شماره کیت دوم دروازه بان": "کیت دوم",
+    "شماره کیت سوم دروازه بان": "کیت سوم",
+    "لینک لوگو": "https://s4.uupload.ir/files/tb2lorc_0j0b.png",
+    "لینک کیت اول": "https://s4.uupload.ir/files/77pyauz_e3il.png",
+    "لینک کیت دوم": "https://s4.uupload.ir/files/389qxn3_uwq0.png",
+    "لینک کیت سوم": "https://s4.uupload.ir/files/hvojpvx_0dyc.png",
+    "لینک کیت اول دروازه بان": "https://s4.uupload.ir/files/5tcmzbn_xzfv.png",
+    "لینک کیت دوم دروازه بان": "0",
+    "لینک کیت سوم دروازه بان": "0",
+    "لینک عکس": "https://s4.uupload.ir/files/tb2lorc_0j0b.png"
   }
 ]
